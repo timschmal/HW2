@@ -4,6 +4,8 @@ div#personalinfo{text-align:center;}
 div#contents{text-align:left;}
 
 h2 {font-style:italic;}
+p {font-style:italic;}
 .bolded{font-weight:bold;}
 
 img {border-style:inset;border-width:8px;border-color:orange;margin:15px;padding:10px;}
+
